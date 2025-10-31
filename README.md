@@ -8,6 +8,13 @@ Hosted on [GitHub Pages](https://akshajsun.github.io/clean-n-green-energy-portfo
 
 ---
 
+## 🖼️ Screenshots
+
+### Homepage Preview
+![Homepage](demo.png)
+
+---
+
 ## 📋 About
 
 This portfolio highlights three advanced renewable energy solutions:
